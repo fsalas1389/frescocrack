@@ -1,0 +1,14 @@
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Debug/netcoreapp2.1/Fresco.csprojAssemblyReference.cache
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Debug/netcoreapp2.1/Fresco.csproj.CoreCompileInputs.cache
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Debug/netcoreapp2.1/Fresco.RazorAssemblyInfo.cache
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Debug/netcoreapp2.1/Fresco.RazorAssemblyInfo.cs
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Debug/netcoreapp2.1/Fresco.AssemblyInfoInputs.cache
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Debug/netcoreapp2.1/Fresco.AssemblyInfo.cs
+/Users/felix/Documents/GitHub/Fresco/Fresco/bin/Debug/netcoreapp2.1/Fresco.deps.json
+/Users/felix/Documents/GitHub/Fresco/Fresco/bin/Debug/netcoreapp2.1/Fresco.runtimeconfig.json
+/Users/felix/Documents/GitHub/Fresco/Fresco/bin/Debug/netcoreapp2.1/Fresco.runtimeconfig.dev.json
+/Users/felix/Documents/GitHub/Fresco/Fresco/bin/Debug/netcoreapp2.1/Fresco.dll
+/Users/felix/Documents/GitHub/Fresco/Fresco/bin/Debug/netcoreapp2.1/Fresco.pdb
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Debug/netcoreapp2.1/Fresco.RazorTargetAssemblyInfo.cache
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Debug/netcoreapp2.1/Fresco.dll
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Debug/netcoreapp2.1/Fresco.pdb

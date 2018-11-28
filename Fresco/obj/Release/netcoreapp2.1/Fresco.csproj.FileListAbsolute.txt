@@ -1,0 +1,5 @@
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Release/netcoreapp2.1/Fresco.csproj.CoreCompileInputs.cache
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Release/netcoreapp2.1/Fresco.RazorAssemblyInfo.cache
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Release/netcoreapp2.1/Fresco.RazorAssemblyInfo.cs
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Release/netcoreapp2.1/Fresco.AssemblyInfoInputs.cache
+/Users/felix/Documents/GitHub/Fresco/Fresco/obj/Release/netcoreapp2.1/Fresco.AssemblyInfo.cs
